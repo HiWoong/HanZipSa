@@ -65,9 +65,9 @@
 
 ### 회원가입
 
-![회원가입_1](https://github.com/HiWoong/HanZipSa/assets/119638990/6acf6cc9-f6c1-4589-89c3-9091a8074cda){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/6acf6cc9-f6c1-4589-89c3-9091a8074cda" alt="회원가입_1" width="800" height="500"/>
 
-![회원가입_2](https://github.com/HiWoong/HanZipSa/assets/119638990/1deff304-c26e-4374-8266-c26914b978cc){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/1deff304-c26e-4374-8266-c26914b978cc" alt="회원가입_2" width="800" height="500"/>
 
 - 이름, 성별, 생년월일, 거주지, 이메일, 비밀번호를 설정하여 서비스에 이용합니다.
 - 특히, 거주지를 입력받아 지도 매칭 서비스에서 내 위치 기반으로 주변 집사 정보를 검색할 수 있습니다.
@@ -75,7 +75,7 @@
 
 ### 홈페이지
 
-![홈페이지](https://github.com/HiWoong/HanZipSa/assets/119638990/f2e83769-5986-4765-9efb-d9ebfdcd8bf3){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/f2e83769-5986-4765-9efb-d9ebfdcd8bf3" alt="홈페이지" width="800" height="500"/>
 
 저희 서비스는 세 가지 성격의 사용자가 존재합니다.
 
@@ -101,11 +101,11 @@
 
 ### 지도 기반 매칭
 
-![지도_1](https://github.com/HiWoong/HanZipSa/assets/119638990/4f757df6-6adf-461a-9aeb-20cc85c5dd1d){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/4f757df6-6adf-461a-9aeb-20cc85c5dd1d" alt="지도_1" width="800" height="500"/>
 
-![지도_2](https://github.com/HiWoong/HanZipSa/assets/119638990/7aa55121-79e2-4f6b-91de-93ef3b6388cd){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/7aa55121-79e2-4f6b-91de-93ef3b6388cd" alt="지도_2" width="800" height="500"/>
 
-![지도_3](https://github.com/HiWoong/HanZipSa/assets/119638990/52f8b591-432d-46cf-a2e0-bf8398ac7c54){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/52f8b591-432d-46cf-a2e0-bf8398ac7c54" alt="지도_3" width="800" height="500"/>
 
 - 회원가입 시 입력한 주소 기반으로 2km 반경의 활동상태의 집사를 보여줍니다.
 - 클러스터링 된 원을 지도에서 누르게 되면 해당 범위의 집사 목록을 볼 수 있고, 해당 집사 정보를 확인하여 매칭을 신청할 수 있습니다.
@@ -113,11 +113,11 @@
 
 ### 필터링 기반 매칭
 
-![필터링_1](https://github.com/HiWoong/HanZipSa/assets/119638990/58941e6f-6fac-4a12-ace5-eb4297551ad8){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/58941e6f-6fac-4a12-ace5-eb4297551ad8" alt="필터링_1" width="800" height="500"/>
 
-![필터링_2](https://github.com/HiWoong/HanZipSa/assets/119638990/e2ffa6e8-9846-40b6-beae-d6bd9bffae84){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/e2ffa6e8-9846-40b6-beae-d6bd9bffae84" alt="필터링_2" width="800" height="500"/>
 
-![필터링_3](https://github.com/HiWoong/HanZipSa/assets/119638990/15814197-a3cd-40f2-9294-6b68945354cf){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/15814197-a3cd-40f2-9294-6b68945354cf" alt="필터링_3" width="800" height="500"/>
 
 - 내가 받고자 하는 서비스를 대분류, 소분류 태그를 선택하여 설정하고, 집사 세부 조건을 필터링하여 해당 조건에 맞는 집사를 보여줍니다.
 - 조건에 맞는 집사 목록 중 자신이 원하는 집사를 선택하여 서비스를 신청할 수 있습니다.
@@ -125,17 +125,17 @@
 
 ### 공개 방 매칭
 
-![공개방_1](https://github.com/HiWoong/HanZipSa/assets/119638990/93c8bd48-9aee-4474-a817-ef5701313deb){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/93c8bd48-9aee-4474-a817-ef5701313deb" alt="공개방_1" width="800" height="500"/>
 
-![공개방_2](https://github.com/HiWoong/HanZipSa/assets/119638990/d4929452-c83b-42fa-8264-a3b59edbbc4b){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/d4929452-c83b-42fa-8264-a3b59edbbc4b" alt="공개방_2" width="800" height="500"/>
 
 - 지도 기반 매칭, 필터링 기반 매칭으로도 원하는 집사를 찾을 수 없을 경우, 자신이 원하는 서비스를 공개방에 등록하여 집사의 요청을 받을 수 있습니다.
 
 ### 게시판 조회
 
-![게시판조회_1](https://github.com/HiWoong/HanZipSa/assets/119638990/20ccfe0c-970f-4032-aaa4-9c57024fe0de){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/20ccfe0c-970f-4032-aaa4-9c57024fe0de" alt="게시판조회_1" width="800" height="500"/>
 
-![게시판조회_2](https://github.com/HiWoong/HanZipSa/assets/119638990/b2f755c0-03b7-494b-8508-082c8beb74a0){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/b2f755c0-03b7-494b-8508-082c8beb74a0" alt="게시판조회_2" width="1000" height="500"/>
 
 - 태그를 선택하여 게시물 목록의 검색 조건을 설정할 수 있습니다.
 - 태그의 구성은 맛집 추천, 동네 소식, 집사 후기, 동네 모임, 생활 꿀팁, 일상 공유로 구성이 되어있습니다.
@@ -143,35 +143,35 @@
 
 ### 게시물 댓글 조회, 작성, 삭제
 
-![게시판댓글_1](https://github.com/HiWoong/HanZipSa/assets/119638990/cad67c18-8c39-41d4-8637-fa4c8ca15163){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/cad67c18-8c39-41d4-8637-fa4c8ca15163" alt="게시판댓글_1" width="1000" height="500"/>
 
 - 게시물에 댓글을 작성하여 사용자들과 소통할 수 있습니다.
 
 
 ### 게시물 작성
 
-![게시물작성](https://github.com/HiWoong/HanZipSa/assets/119638990/afae09c3-3b74-42a9-a2a9-8754dceca4f9){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/afae09c3-3b74-42a9-a2a9-8754dceca4f9" alt="게시물작성" width="800" height="500"/>
 
 - 태그를 선택하여 게시물을 등록할 수 있습니다.
 
 
 ### 게시물 수정
 
-![게시물수정](https://github.com/HiWoong/HanZipSa/assets/119638990/4ccd2765-3f60-4103-9963-f50de91adb37){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/4ccd2765-3f60-4103-9963-f50de91adb37" alt="게시물수정" width="1000" height="500"/>
 
 - 게시물 수정이 가능합니다.
 
 
 ### 게시물 삭제
 
-![게시물삭제](https://github.com/HiWoong/HanZipSa/assets/119638990/9d45ecd9-33b1-4c3b-afe3-9709d96881ff){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/9d45ecd9-33b1-4c3b-afe3-9709d96881ff" alt="게시물삭제" width="800" height="500"/>
 
 - 게시물 삭제가 가능합니다.
 
 
 ### 마이 페이지 사용 내역, 게시글, 결제 수단
 
-![내역_게시글_결제수단](https://github.com/HiWoong/HanZipSa/assets/119638990/cf553ccd-6838-4409-8930-c165f9347ce2){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/cf553ccd-6838-4409-8930-c165f9347ce2" alt="내역_게시글_결제수단" width="800" height="500"/>
 
 - 집사에게 의뢰했던 내용들을 목록으로 볼 수 있습니다. 주요 내용으로는 의뢰를 수행한 집사의 이름, 업무를 수행한 날짜, 맡긴 일, 지불한 금액 이 있습니다.
 - 사용자가 작성한 게시물을 한 눈에 볼 수 있도록 목록으로 보여줍니다.
@@ -181,7 +181,7 @@
 
 ### 마이 페이지 연동 계정 참가
 
-![연동계정참가](https://github.com/HiWoong/HanZipSa/assets/119638990/03c35790-5f4f-4ec0-9490-5a6f14b333b9){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/03c35790-5f4f-4ec0-9490-5a6f14b333b9" alt="연동계정참가" width="800" height="500"/>
 
 - 연동 계정을 생성 하거나 구성원으로 참여할 수 있도록 버튼을 보여줍니다.
 - 연동 계정 참가 코드를 입력할 수 있는 페이지를 보여주고 알맞은 참가 코드를 입력시 연동 계정 정보가 추가됩니다.
@@ -189,7 +189,7 @@
 
 ### 마이 페이지 연동 계정 생성
 
-![연동계정대표](https://github.com/HiWoong/HanZipSa/assets/119638990/4e3e2c81-0b45-4c60-9a70-5b75bcbc2fc0){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/4e3e2c81-0b45-4c60-9a70-5b75bcbc2fc0" alt="연동계정대표" width="1000" height="500"/>
 
 - 연동 계정을 생성 하거나 구성원으로 참여할 수 있도록 버튼을 보여줍니다.
 - 대표로 등록을 하기 위해 약관에 동의를 받은 후 가입하기 버튼이 활성화 됩니다.
@@ -201,9 +201,9 @@
 
 ### 집사 신청
 
-![집사신청_1](https://github.com/HiWoong/HanZipSa/assets/119638990/06ebbe5d-52e4-4f62-9161-30bdc67c7ec0){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/06ebbe5d-52e4-4f62-9161-30bdc67c7ec0" alt="집사신청_1" width="800" height="500"/>
 
-![집사신청_2](https://github.com/HiWoong/HanZipSa/assets/119638990/5b9cc8ba-18bc-4175-9ff3-2e10f278feb1){: width="54%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/5b9cc8ba-18bc-4175-9ff3-2e10f278feb1" alt="집사신청_2" width="600" height="500"/>
 
 - 집사 되기를 클릭 시 집사의 이득과 지원 절차를 보여줍니다.
 - 집사 활동에 필요한 집사의 정보를 입력 받습니다.
@@ -213,7 +213,7 @@
 
 ### 집사 마이페이지
 
-![집사마이페이지](https://github.com/HiWoong/HanZipSa/assets/119638990/34dee2cc-6d2d-42ad-a5e8-022c783ec99c){: width="80%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/34dee2cc-6d2d-42ad-a5e8-022c783ec99c" alt="집사마이페이지" width="800" height="500"/>
 
 - 집사인 상태로 마이 페이지를 클릭 하는 경우 현재 집사의 이름과 프로필 이미지, 등급 정보, 다이아 점수, 활동 내역 보기를 제공합니다.
 - 집사로 활동한 내역들의 목록을 볼 수 있습니다.
@@ -221,21 +221,21 @@
 
 ### 비밀번호 수정
 
-![비밀번호수정](https://github.com/HiWoong/HanZipSa/assets/119638990/63edeb7a-bd97-405f-865d-f38b598fa956){: width="26%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/63edeb7a-bd97-405f-865d-f38b598fa956" alt="비밀번호수정" width="300" height="500"/>
 
 - 사용자의 비밀번호를 변경하는 페이지로 비밀번호를 변경할 때 확인 작업도 같이 합니다.
 
 
 ### 사용자 예약 내역
 
-![사용자예약내역_1](https://github.com/HiWoong/HanZipSa/assets/119638990/a5e7d417-8721-40b8-82c9-4b73fa514ec9){: width="54%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/a5e7d417-8721-40b8-82c9-4b73fa514ec9" alt="사용자예약내역_1" width="600" height="500"/>
 
 - 사용자가 예약한 업무의 목록을 나타냅니다.
 - 예정된 업무의 간단한 정보를 보여주고 우측에 있는 화살표 버튼을 클릭 시 해당 업무의 상세 정보를 조회 할 수 있습니다.
 
 ### 집사 예약 내역
 
-![집사예약내역_1](https://github.com/HiWoong/HanZipSa/assets/119638990/8d48abb6-d37a-4e66-a3c0-19cee5b30cc0){: width="54%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/8d48abb6-d37a-4e66-a3c0-19cee5b30cc0" alt="집사예약내역_1" width="600" height="500"/>
 
 - 집사가 예약한 업무의 목록을 나타냅니다.
 - 예정된 업무의 간단한 정보를 보여주고 우측에 있는 화살표 버튼을 클릭 시 해당 업무의 상세 정보를 조회 할 수 있습니다.
@@ -245,7 +245,7 @@
 
 ### 집사 정기 보고서 작성
 
-![정기보고_1](https://github.com/HiWoong/HanZipSa/assets/119638990/fc241fdf-de42-416b-bcd8-df7660105a8b){: width="54%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/fc241fdf-de42-416b-bcd8-df7660105a8b" alt="정기보고_1" width="800" height="600"/>
 
 - 활동 사진과 해당 서비스 진행상황을 보고합니다.
 - 보고서 작성을 완료하면 완료 페이지로 이동합니다.
@@ -253,7 +253,7 @@
 
 ### 사용자 알림
 
-![사용자_1](https://github.com/HiWoong/HanZipSa/assets/119638990/c7f2d29a-bb10-4400-b1a1-fd94fb44b056){: width="54%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/c7f2d29a-bb10-4400-b1a1-fd94fb44b056" alt="사용자_1" width="700" height="500"/>
 
 - 집사가 정기 보고서를 작성하면 사용자에게 알림이 발송됩니다.
 - 우측에 있는 화살표를 클릭하면 작성된 정기 보고서를 확인할 수 있습니다.
@@ -261,7 +261,7 @@
 
 ### 집사 알림
 
-![집사_1](https://github.com/HiWoong/HanZipSa/assets/119638990/99de2c19-95c5-4523-b761-2c4ff94ca716){: width="54%"}
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/99de2c19-95c5-4523-b761-2c4ff94ca716" alt="집사_1" width="600" height="500"/>
 
 - 사용자가 집사에게 제안을 보내면 알림이 발송됩니다.
 - 우측에 있는 화살표를 클릭하면 제안의 상세 정보를 조회와 동시에 수락, 거절 버튼이 나타납니다.
@@ -298,15 +298,15 @@
 
 ERD
 
-![ERD](/uploads/0a21f5a0b94347efecbca148653d47a9/ERD.png)
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/fb547ec2-3ce4-406d-9cb4-096f3ed69d61" alt="ERD" width="600" height="500"/>
 
 아키텍처 설계
 
-![A407](/uploads/d4d7732fa3722b3214b417c22516cf6d/A407.png)
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/a3387da8-3bdd-4aee-8e65-e189002955cb" alt="Architecture" width="600" height="500"/>
 
 Figma
 
-![figma_fix](/uploads/b7294680372fc3af2bcf1c4e5dc2d813/figma_fix.png)
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/a6f6684e-c003-4b69-928f-0eb71ae5e26d" alt="ERD" width="600" height="500"/>
 
 ## 팀원 소개
 
