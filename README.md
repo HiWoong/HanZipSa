@@ -245,7 +245,7 @@
 
 ### 집사 정기 보고서 작성
 
-<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/fc241fdf-de42-416b-bcd8-df7660105a8b" alt="정기보고_1" width="800" height="600"/>
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/fc241fdf-de42-416b-bcd8-df7660105a8b" alt="정기보고_1" width="600" height="600"/>
 
 - 활동 사진과 해당 서비스 진행상황을 보고합니다.
 - 보고서 작성을 완료하면 완료 페이지로 이동합니다.
@@ -253,7 +253,7 @@
 
 ### 사용자 알림
 
-<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/c7f2d29a-bb10-4400-b1a1-fd94fb44b056" alt="사용자_1" width="700" height="500"/>
+<img src="https://github.com/HiWoong/HanZipSa/assets/119638990/c7f2d29a-bb10-4400-b1a1-fd94fb44b056" alt="사용자_1" width="600" height="500"/>
 
 - 집사가 정기 보고서를 작성하면 사용자에게 알림이 발송됩니다.
 - 우측에 있는 화살표를 클릭하면 작성된 정기 보고서를 확인할 수 있습니다.
